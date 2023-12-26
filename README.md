@@ -1,4 +1,4 @@
-### Olá, eu sou o Lucas Ribeiro, desenvolvedor front-end dando seus primeiros passos no mundo da tecnologia!
+### Olá, eu sou o Lucas Messias, desenvolvedor front-end dando seus primeiros passos no mundo da tecnologia!
 
 - 🌱 Estou atualmente estudando JavaScript
 
