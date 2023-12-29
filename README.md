@@ -1,8 +1,8 @@
 ### Olá, eu sou o Lucas Messias, desenvolvedor front-end dando seus primeiros passos no mundo da tecnologia!
 
-- 🌱 Estou atualmente estudando JavaScript
+- 🌱 Estou atualmente estudando os fundamentos da computação
 
-### Tecnologias 
+### Tecnologias
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
@@ -11,7 +11,6 @@
 </div>
 
 ### Estatísticas
-
 
 <div>
   <a href="https://github.com/lucasmri">
